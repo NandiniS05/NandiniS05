@@ -63,22 +63,16 @@
 📌 **Projects**
 
 🔹 **Smart Mirror with AI Integration**  
-- AI-powered smart system for real-time updates and automation  
 
-🔹 **Power BI Dashboard (Supply Chain & Logistics)**  
-- Interactive dashboard to track KPIs and business insights  
+🔹 **Power BI Dashboard (Supply Chain & Logistics)**   
 
 🔹 **E-Commerce Platform with Payment Integration**  
-- Developed a functional full-stack application  
 
 🔹 **Automated Email System (Python)**  
-- Built scripts to automate email workflows  
 
-🔹 **Rewards & Recognition Automation Solution**  
-- Streamlined internal processes using automation tools  
+🔹 **Rewards & Recognition Automation Solution**   
 
 🔹 **Landslide Susceptibility Mapping (DRDO)**  
-- Applied ML models for risk prediction and analysis  
 
 ---
 
